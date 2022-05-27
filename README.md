@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rw-81
-- 👀 I’m interested in Python3, GCP, AWS
+- 👀 I’m interested in Python3, Terraform, Golang. GCP, AWS
 - 🌱 I’m currently learning Python3, GCP, AWS 😅
 - 💞️ I’m looking to collaborate on anything I can learn
 - 📫 How to reach me ...
